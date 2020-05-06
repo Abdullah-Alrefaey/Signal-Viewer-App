@@ -8,22 +8,10 @@ All Digital signal processing tasks are tracked here
 
 - [Abdullah Mohamed](https://github.com/Abdullah-Alrefaey) 
 
-- [Ahmad Abdelmageed](https://github.com/biomedicalengineerahmad) 
+- [Ahmad Abdelmageed](https://github.com/Ahmad-Abdalmageed) 
 
-
-## Tasks
-
-#### [Task 1(Signal Viewer) :](https://github.com/biomedicalengineerahmad/DSP_tasks-/tree/master/Task1)
+### Task 1 - Signal Viewer
 
 -  Open any arbitrary signal and visualize it on some nice-looking graph.
 - View 3 different medical signals with 3 different formats 
 - Nice interactive graph 
-
-#### [Task 2 (Equalizer):](https://github.com/biomedicalengineerahmad/DSP_tasks-/tree/master/Task2)
-
-​	A nice looking Equalizer with powerful features for music industry :
-
-* 10 Equalizer bands 
-* display of the Fourier transform of the input and the chosen gain for each band 
-* built-in music player 
-* save all your results 
